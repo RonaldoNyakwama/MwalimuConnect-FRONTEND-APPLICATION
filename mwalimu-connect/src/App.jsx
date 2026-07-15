@@ -1,10 +1,10 @@
-import './App.css'
+import { TutorEarnings } from "./components/TutorEarnings"
 
 function App() {
 
   return (
     <>
-      <h1>App coming soon</h1>
+      
     </>
   )
 }
