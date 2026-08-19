@@ -1,6 +1,7 @@
 import {useState} from 'react'
 import { Button } from './Button';
 import {DollarSign, ArrowUpRight, ArrowDownRight} from 'lucide-react'
+
 export function AccountBalance(){
   const [balance, setBalance] =useState(250)
   const [addFundsOpen, setAddFundsOpen] = useState(false)
