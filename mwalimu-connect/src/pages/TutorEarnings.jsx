@@ -1,4 +1,4 @@
-import { mockBookings, mockEarningsData } from '../../public/mockData.js';
+import { mockBookings, mockEarningsData } from '../data/mockData.js';
 import{CheckCircle, TrendingUp, Clock, DollarSign} from "lucide-react";
 import { ResponsiveContainer, BarChart, CartesianGrid, XAxis, YAxis, Tooltip, Bar } from "recharts";
 
